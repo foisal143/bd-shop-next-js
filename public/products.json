@@ -1,0 +1,86 @@
+[
+  {
+    "id": 101,
+    "name": "Laptop",
+    "image": "https://media.istockphoto.com/id/1394988455/photo/laptop-with-a-blank-screen-on-a-white-background.webp?b=1&s=170667a&w=0&k=20&c=ExhLI0wl0S3Zak66uSK8oubQLnC9kC0wlcgTr9ePIXc=",
+    "category": "Electronics",
+    "price": 999.99
+  },
+  {
+    "id": 102,
+    "name": "Smartphone",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTO4NW1vuyGKPLuFOIRQubDS40DuI1OXmIJ6PnnKp7w&s",
+    "category": "Electronics",
+    "price": 499.99
+  },
+  {
+    "id": 103,
+    "name": "Headphones",
+    "image": "https://img.freepik.com/free-photo/pink-headphones-wireless-digital-device_53876-96804.jpg",
+    "category": "Electronics",
+    "price": 79.99
+  },
+  {
+    "id": 201,
+    "name": "T-Shirt",
+    "image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8yNV9waG90b19vZl93aGl0ZV9tYWxlX3RzaGlydF9tb2NrdXBfd2hpdGVfdHNoaV85YjNmOWZjZS03MTZkLTQxYmUtODkzZS05MzkwZWY1NmZiZmFfMi5qcGc.jpg",
+    "category": "Clothing",
+    "price": 19.99
+  },
+  {
+    "id": 202,
+    "name": "Jeans",
+    "image": "https://t3.ftcdn.net/jpg/04/83/25/50/360_F_483255019_m1r1ujM8EOkr8PamCHF85tQ0rHG3Fiqz.jpg",
+    "category": "Clothing",
+    "price": 39.99
+  },
+  {
+    "id": 203,
+    "name": "Dress",
+    "image": "https://t3.ftcdn.net/jpg/04/27/70/68/360_F_427706863_hi4N85labo3pmSc7AF3Dv4x3uAi2p8tM.jpg",
+    "category": "Clothing",
+    "price": 59.99
+  },
+  {
+    "id": 301,
+    "name": "Coffee Maker",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGod0alUWXqrfe5eSb1v8Rta0IiQaR5K9ydSknfjNXpA&s",
+    "category": "Home",
+    "price": 49.99
+  },
+  {
+    "id": 302,
+    "name": "Cookware Set",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/zwilling-cookware-set.jpg?c=16x9&q=h_720,w_1280,c_fill",
+    "category": "Home",
+    "price": 99.99
+  },
+  {
+    "id": 303,
+    "name": "Blender",
+    "image": "https://www.shutterstock.com/image-photo/blender-appliance-mixing-blending-food-600nw-2370079417.jpg",
+    "category": "Home",
+    "price": 39.99
+  },
+  {
+    "id": 401,
+    "name": "Novel",
+    "image": "https://img.freepik.com/free-photo/realistic-closed-book-white-background_23-2151359532.jpg",
+    "category": "Books",
+    "price": 9.99
+  },
+  {
+    "id": 402,
+    "name": "Notebook",
+    "image": "https://st.depositphotos.com/1875497/3781/i/450/depositphotos_37810929-stock-photo-books-on-white.jpg",
+    "category": "Books",
+    "price": 4.99
+  },
+  {
+    "id": 403,
+    "name": "Pen Set",
+    "image": "https://bdpens.com/cdn/shop/files/Classic-Pen-Set.jpg?v=1686759176",
+    "category": "Books",
+    "price": 12.99
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "image": "https://media.istockphoto.com/id/1328836875/vector/realistic-electronic-devices-and-gadgets-in-isometry-vector-isometric-illustration-of.jpg?s=612x612&w=0&k=20&c=4iwItEQ1P3lhjl350QXRl5IrgC8ufDImaoc-7_H5vVA="
+  },
+  {
+    "id": 2,
+    "name": "Clothing",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmxIlnNRR3iKxq-_WbaZ5rUngtc--U5S8WryGPpgpSmw&s"
+  },
+  {
+    "id": 3,
+    "name": "Home",
+    "image": "https://img.freepik.com/free-photo/empty-modern-room-with-furniture_23-2149178334.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Books",
+    "image": "https://img.freepik.com/free-photo/back-school-concept-arrangement_23-2148586681.jpg?size=626&ext=jpg&ga=GA1.1.1700460183.1712880000&semt=ais"
+  }
+]
